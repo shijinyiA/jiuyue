@@ -40,7 +40,7 @@ QQ：3022056965
 
 ＞jinyi.icu是基于[wordpress](https://cn.wordpress.org/)的[argon模版](https://github.com/solstice23/argon-theme)
 
-＞docs.jinyi.icu是基于[vuepress](https://vuepress.vuejs.org/zh/)搭建，部署于[Github pages](https://github.com/)上
+＞docs.jinyi.icu是基于[vuepress](https://vuepress.vuejs.org/zh/)的vuepress-theme-hope主题搭建的，部署于[Github pages](https://github.com/)上
 
 
 <Giscus />
