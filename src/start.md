@@ -15,14 +15,18 @@ title: 关于
 
 
 微信：
+
 ![微信二维码](/images/2.png)
 
 抖音：
+
 ![抖音二维码](/images/1.png)
 
 爱发电:
+
 ![爱发电二维码](/images/3.png)
 
 QQ：
+
 ![QQ二维码](/images/4.png)
 
