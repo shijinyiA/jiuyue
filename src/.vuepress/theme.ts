@@ -15,7 +15,7 @@ export default hopeTheme({
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "shijinyiA/jinyiDocs",
+  repo: "shijinyiA/jiuyue",
 
   docsDir: "src",
 
