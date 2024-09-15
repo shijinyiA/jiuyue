@@ -7,22 +7,15 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "锦衣&Docs",
-  description: "锦衣&Docs",
+  title: "神奇九月",
+  description: "欢迎来到坏九月的个人空间~",
 
   theme: hopeTheme({
     // 主题配置
-    logo: 'https://dl3.img.timecdn.cn/2024/08/27/b_9fdf0b456d4d03b5215842c3d792b6ba.jpg',
+    logo: '/images/tx.jpg',
     navbar: [
       { text: '首页', link: '/' },
       { text: '关于', link: '/about.html' },
-      {
-        text: 'GitHub',
-        link: 'https://github.com/shijinyiA',
-        target: '_blank',
-        rel: 'noopener noreferrer',
-        ariaLabel: 'GitHub'
-      }
     ],
     sidebar: [
       // 侧边栏配置

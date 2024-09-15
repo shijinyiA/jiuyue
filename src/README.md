@@ -3,12 +3,12 @@ home: true
 heroFullScreen: true
 icon: 
 title: 首页
-heroImage: https://dl3.img.timecdn.cn/2024/08/27/b_9fdf0b456d4d03b5215842c3d792b6ba.jpg
-bgImage: /images/bj.jpg
+heroImage: /images/tx.jpg
+bgImage: /images/bj.png
 bgImageStyle:
   opacity: 0.6
   background-position: 100% 100%
-heroText: 锦衣&Docs
+heroText: 神奇九月的小窝
 actions:
   - text: 开始
     icon: lightbulb
