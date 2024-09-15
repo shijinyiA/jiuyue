@@ -2,12 +2,16 @@
 title: 关于
 ---
 
-作者名称:**九月**
- 
 ---
-以下为作者联系方式：
+作者名称:**九月**
+ ---
 
+以下为作者联系方式：
+---
 **链接**
+---
+
+
 [抖音](https://www.douyin.com/user/self?from_tab_name=main)
 
 [爱发电](https://afdian.com/a/jy9527)
