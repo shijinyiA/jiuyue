@@ -8,14 +8,14 @@ export default hopeTheme({
 
   author: {
     name: "九月",
-    url: "https://mister-hope.com",
+    url: "jinyi.icu",
   },
 
   iconAssets: "fontawesome-with-brands",
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "shijinyiA/jinyiDocs",
 
   docsDir: "src",
 

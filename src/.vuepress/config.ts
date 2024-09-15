@@ -15,7 +15,7 @@ export default defineUserConfig({
     logo: '/images/tx.jpg',
     navbar: [
       { text: '首页', link: '/' },
-      { text: '关于', link: '/about.html' },
+      { text: '开始', link: '/start.html' },
     ],
     sidebar: [
       // 侧边栏配置
